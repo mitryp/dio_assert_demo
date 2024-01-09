@@ -7,7 +7,7 @@ a working workaround.
 
 1.
    ```shell
-   git clone https://github.com/mityrp/dio_assert_demo && cd dio_assert_demo
+   git clone https://github.com/mitryp/dio_assert_demo.git && cd dio_assert_demo
    ```
 
 2.
